@@ -2,10 +2,8 @@
 
 <h1> Image and video processing project </h1>
 
-# _Multi-Camera Person Tracking and Re-Identification_ (using video)
-[![HitCount](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification.svg)](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification)
-Simple model to _"Detect/Track"_ and _"Re-identify"_ individuals in different cameras/videos.
 
+# Some Snapshots
 <img align="right" img src="assets/2.gif" width="380" />  <img align="left" img src="assets/1.gif" width="380" />
 <p align="center">
   <img src="assets/arrow.png" width="400"/>
