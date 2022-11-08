@@ -23,10 +23,6 @@ The tracking can be completed using YOLO_v3 or YOLO_v4 and ReID relies on Kaiyan
 # # Installation
  - Download [Anaconda](https://www.anaconda.com/products/individual) if it is not installed on your machine
 
- - Clone the repository
-```python
-git clone https://github.com/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification
-```
 - Create a project environment
 ```python
 cd Multi-Camera-Person-Tracking-and-Re-Identification
