@@ -25,7 +25,7 @@ The tracking can be completed using YOLO_v3 or YOLO_v4 and ReID relies on Kaiyan
 
 - Create a project environment
 ```python
-cd Multi-Camera-Person-Tracking-and-Re-Identification
+cd C:\Users\Rahul Mahto\Desktop\cooperative people tracking using multiple cam eras
 conda create --name py37 python=3.7
 conda activate py37
 ```
