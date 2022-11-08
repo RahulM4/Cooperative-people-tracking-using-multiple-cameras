@@ -1,5 +1,7 @@
 # Cooperative-people-tracking-using-multiple-cameras
 
+#Image and video processing project
+
 # _Multi-Camera Person Tracking and Re-Identification_ (using video)
 [![HitCount](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification.svg)](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification)
 Simple model to _"Detect/Track"_ and _"Re-identify"_ individuals in different cameras/videos.
@@ -68,7 +70,7 @@ python demo.py --videos videos\init\Double1.mp4 videos\init\Single1.mp4 --versio
 ```
 
 # # Acknowledgement
-This model is build on top of the incredible work done in the following projects:
+This project is inspired and build on top of the incredible work done in the following projects:
   * https://github.com/nwojke/cosine_metric_learning
   * https://github.com/KaiyangZhou/deep-person-reid
   * https://github.com/Qidian213/deep_sort_yolov3
