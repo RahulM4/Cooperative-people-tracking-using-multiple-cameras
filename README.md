@@ -1,6 +1,6 @@
 # Cooperative-people-tracking-using-multiple-cameras
 
-##Image and video processing project##
+<h1> Image and video processing project </h1>
 
 # _Multi-Camera Person Tracking and Re-Identification_ (using video)
 [![HitCount](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification.svg)](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification)
@@ -59,7 +59,7 @@ python convert_y4.py model_data\weights\yolov4.weights model_data\models\yolov4.
 
 - Download either one of the following Torchreid models [1](https://drive.google.com/file/d/1EtkBARD398UW93HwiVO9x3mByr0AeWMg/view?usp=sharing),[2](https://drive.google.com/open?id=15Ayri_sHtrctJ1Zb8qERjvdi66y6QaI4) and add them to \model_data\models\ (you might have to change the path in reid.py)
 
-# # Demo
+# # Illustrations
 
 You can try out your own videos by running demo.py.
 Under the directory \videos\output, the program will generate a video of the tracking, as well as a video of the tracking and ReID. (as can be seen in the example above)
