@@ -1,6 +1,6 @@
 # Cooperative-people-tracking-using-multiple-cameras
 
-#Image and video processing project
+##Image and video processing project##
 
 # _Multi-Camera Person Tracking and Re-Identification_ (using video)
 [![HitCount](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification.svg)](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification)
