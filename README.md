@@ -6,7 +6,7 @@
 # Some Snapshots
 <img align="right" img src="Double_AdobeExpress.gif" width="380" />  <img align="left" img src="tracking_AdobeExpress.gif" width="380" />
 <p align="center">
-  <img src="assets/arrow.png" width="400"/>
+  <img src="assets/down.png" width="400"/>
 </p>
 <p align="center">
   <img src="Complete_AdobeExpress.gif" width="500"/>
